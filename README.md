@@ -4,6 +4,7 @@
 ### MÓDULO 1: Configuración inicial de Git.
    En este módulo aprenderemos a realizar la configuración inicial de Git.
 ### MODULO 2:
+   Contenido del módulo 2.
 ### MODULO 3:
 ### MODULO 4:
 ### MODULO 5:
